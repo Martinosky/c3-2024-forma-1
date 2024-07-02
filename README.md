@@ -4,7 +4,7 @@ En este control, deberemos de tomar una serie de criterios de aceptación y conv
 Para poder ejecutar, debe instalar las librerías necesarias:
 
 ```
-npm install
+npm install 
 ```
 
 Finalmente ejecutar el script de tests:
